@@ -112,4 +112,4 @@ study-tracker/
 
 ## 📄 许可证
 
-MIT License
+[AGPL-3.0 License](https://www.gnu.org/licenses/agpl-3.0.html)
