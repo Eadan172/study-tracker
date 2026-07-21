@@ -1,0 +1,26 @@
+{
+  "雅思": {
+    "plans": [
+      "E:/cc/git_work/ideas/example\\雅思\\plan_20260721_082441.docx"
+    ],
+    "manual_schedule": {},
+    "task_minutes": 30,
+    "start_date": "2026-07-21"
+  },
+  "舞蹈": {
+    "plans": [
+      "E:/cc/git_work/ideas/example\\舞蹈\\plan_20260721_082458.txt"
+    ],
+    "manual_schedule": {},
+    "task_minutes": 30,
+    "start_date": "2026-07-21"
+  },
+  "作业": {
+    "plans": [
+      "E:/cc/git_work/ideas/example\\作业\\plan_20260721_082515.docx"
+    ],
+    "manual_schedule": {},
+    "task_minutes": 30,
+    "start_date": "2026-07-21"
+  }
+}
